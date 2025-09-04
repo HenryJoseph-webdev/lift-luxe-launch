@@ -30,7 +30,7 @@ const Index = () => {
                 <div className="w-10 h-10 bg-gradient-to-br from-primary to-primary-glow rounded-xl flex items-center justify-center">
                   <Dumbbell className="w-6 h-6 text-white" />
                 </div>
-                <span className="text-xl font-bold text-white">Lift Luxe Launch</span>
+                <span className="text-xl font-bold text-white">Elevate</span>
               </div>
               <p className="text-secondary-foreground/80 mb-6 max-w-md">
                 Transform your fitness journey with premium equipment, expert trainers, 
@@ -72,7 +72,7 @@ const Index = () => {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Mail className="w-4 h-4" />
-                  <span>info@liftluxelaunch.com</span>
+                  <span>info@elevate.com</span>
                 </div>
                 <div className="text-sm">
                   123 Fitness Boulevard<br />
@@ -84,7 +84,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-white/20 mt-8 pt-8 text-center text-secondary-foreground/60">
-            <p>&copy; 2024 Lift Luxe Launch. All rights reserved.</p>
+            <p>&copy; 2024 Elevate. All rights reserved.</p>
           </div>
         </div>
       </footer>

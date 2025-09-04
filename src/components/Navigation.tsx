@@ -29,7 +29,7 @@ const Navigation = () => {
             <div className="w-10 h-10 bg-gradient-to-br from-primary to-primary-glow rounded-xl flex items-center justify-center">
               <Dumbbell className="w-6 h-6 text-white" />
             </div>
-            <span className="text-xl font-bold">Lift Luxe Launch</span>
+            <span className="text-xl font-bold">Elevate</span>
           </div>
           
           {/* Desktop Navigation */}

@@ -25,7 +25,7 @@ const Hero = () => {
             </h1>
             
             <p className="text-xl md:text-2xl text-gray-100 mb-8 max-w-2xl">
-              Join Lift Luxe Launch and unlock your potential with premium equipment, 
+              Join Elevate and unlock your potential with premium equipment, 
               expert trainers, and a community that pushes you to excellence.
             </p>
             
