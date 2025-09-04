@@ -6,7 +6,7 @@ const Testimonials = () => {
     {
       name: "Sarah Johnson",
       role: "Marketing Executive",
-      content: "Lift Luxe Launch transformed my fitness journey. The trainers are incredible and the community is so supportive. I've never felt stronger!",
+      content: "Elevate transformed my fitness journey. The trainers are incredible and the community is so supportive. I've never felt stronger!",
       rating: 5,
       image: "https://images.unsplash.com/photo-1494790108755-2616b612b789?w=150&h=150&fit=crop&crop=face"
     },
@@ -34,7 +34,7 @@ const Testimonials = () => {
     {
       name: "Lisa Park",
       role: "Nurse",
-      content: "After years of trying different gyms, I finally found my home at Lift Luxe Launch. The results speak for themselves!",
+      content: "After years of trying different gyms, I finally found my home at Elevate. The results speak for themselves!",
       rating: 5,
       image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face"
     },
